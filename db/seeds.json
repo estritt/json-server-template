@@ -1,65 +1,65 @@
 {
-  "cats": [
-   {
-       "id": "1",
-       "Name": "Chauncey",
-       "Pronounced": "chawn-see",
-       "LivesIn": "Connecticut",
-       "OriginallyFrom": "???",
-       "Nickname": "Pants Man",
-       "ProfilePhoto": "./profile-photos/1",
-       "BannerPhoto": "./banner-photos/1"
+    "cats": [
+        {
+            "id": "1",
+            "name": "Chauncey",
+            "pronounced": "chawn-see",
+            "livesIn": "Connecticut",
+            "originallyFrom": "???",
+            "nickname": "Pants Man",
+            "profilePhoto": "./profile-photos/1",
+            "bannerPhoto": "./banner-photos/1"
 
-   },
-   {
-       "id": "2",
-       "Name": "",
-       "Pronounced": "",
-       "LivesIn": "",
-       "OriginallyFrom": "",
-       "Nickname": "",
-       "ProfilePhoto": "",
-       "BannerPhoto": ""
-   },
-   {
-       "id": "3",
-       "Name": "",
-       "Pronounced": "",
-       "LivesIn": "",
-       "OriginallyFrom": "",
-       "Nickname": "",
-       "ProfilePhoto": "",
-       "BannerPhoto": ""
-   },
-   {
-       "id": "4",
-       "Name": "",
-       "Pronounced": "",
-       "LivesIn": "",
-       "OriginallyFrom": "",
-       "Nickname": "",
-       "ProfilePhoto": "",
-       "BannerPhoto": ""
-   },
-   {
-       "id": "5",
-       "Name": "",
-       "Pronounced": "",
-       "LivesIn": "",
-       "OriginallyFrom": "",
-       "Nickname": "",
-       "ProfilePhoto": "",
-       "BannerPhoto": ""
-   },
-   {
-       "id": "6",
-       "Name": "",
-       "Pronounced": "",
-       "LivesIn": "",
-       "OriginallyFrom": "",
-       "Nickname": "",
-       "ProfilePhoto": "",
-       "BannerPhoto": ""
-   }
- ]
+        },
+        {
+            "id": "2",
+            "name": "",
+            "pronounced": "",
+            "livesIn": "",
+            "originallyFrom": "",
+            "nickname": "",
+            "profilePhoto": "",
+            "bannerPhoto": ""
+        },
+        {
+            "id": "3",
+            "name": "",
+            "pronounced": "",
+            "livesIn": "",
+            "originallyFrom": "",
+            "nickname": "",
+            "profilePhoto": "",
+            "bannerPhoto": ""
+        },
+        {
+            "id": "4",
+            "name": "",
+            "pronounced": "",
+            "livesIn": "",
+            "originallyFrom": "",
+            "nickname": "",
+            "profilePhoto": "",
+            "bannerPhoto": ""
+        },
+        {
+            "id": "5",
+            "name": "",
+            "pronounced": "",
+            "livesIn": "",
+            "originallyFrom": "",
+            "nickname": "",
+            "profilePhoto": "",
+            "bannerPhoto": ""
+        },
+        {
+            "id": "6",
+            "name": "",
+            "pronounced": "",
+            "livesIn": "",
+            "originallyFrom": "",
+            "nickname": "",
+            "profilePhoto": "",
+            "bannerPhoto": ""
+        }
+    ]
 }
