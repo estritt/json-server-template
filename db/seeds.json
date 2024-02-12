@@ -1,65 +1,21 @@
-{
-    "cats": [
-        {
-            "id": "1",
-            "name": "Chauncey",
-            "pronounced": "chawn-see",
-            "livesIn": "Connecticut",
-            "originallyFrom": "???",
-            "nickname": "Pants Man",
-            "profilePhoto": "./profile-photos/1",
-            "bannerPhoto": "./banner-photos/1"
-
-        },
-        {
-            "id": "2",
-            "name": "",
-            "pronounced": "",
-            "livesIn": "",
-            "originallyFrom": "",
-            "nickname": "",
-            "profilePhoto": "",
-            "bannerPhoto": ""
-        },
-        {
-            "id": "3",
-            "name": "",
-            "pronounced": "",
-            "livesIn": "",
-            "originallyFrom": "",
-            "nickname": "",
-            "profilePhoto": "",
-            "bannerPhoto": ""
-        },
-        {
-            "id": "4",
-            "name": "",
-            "pronounced": "",
-            "livesIn": "",
-            "originallyFrom": "",
-            "nickname": "",
-            "profilePhoto": "",
-            "bannerPhoto": ""
-        },
-        {
-            "id": "5",
-            "name": "",
-            "pronounced": "",
-            "livesIn": "",
-            "originallyFrom": "",
-            "nickname": "",
-            "profilePhoto": "",
-            "bannerPhoto": ""
-        },
-        {
-            "id": "6",
-            "name": "",
-            "pronounced": "",
-            "livesIn": "",
-            "originallyFrom": "",
-            "nickname": "",
-            "profilePhoto": "",
-            "bannerPhoto": ""
-        }
-    ]
-}
+[
+    {
+      "id": "1",
+      "name": "Chauncey",
+      "pronounced": "chawn-see",
+      "livesIn": "Connecticut",
+      "originallyFrom": "???",
+      "nickname": "Pants Man",
+      "profilePhoto": "./profile-photos/1",
+      "bannerPhoto": "./banner-photos/1"
+    },
+    {
+      "name": "Avatar Cat",
+      "livesIn": "Staten Island",
+      "originallyFrom": "The Streets",
+      "nickname": "Aang",
+      "profilePhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707773533/gggesm7ek3s5nv2jciz6.jpg",
+      "backgroundPhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707773535/amhidipwymxfqpyupurm.jpg",
+      "id": "-pLj7X6"
+    }
+  ]
