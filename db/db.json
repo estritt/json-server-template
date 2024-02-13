@@ -1,4 +1,5 @@
-[
+{ 
+  "cats": [
     {
       "id": "1",
       "name": "Chauncey",
@@ -6,8 +7,8 @@
       "livesIn": "Connecticut",
       "originallyFrom": "???",
       "nickname": "Pants Man",
-      "profilePhoto": "./profile-photos/1",
-      "bannerPhoto": "./banner-photos/1"
+      "profilePhoto": "https://res.cloudinary.com/djsqcm710/image/upload/f_auto,q_auto/lk5s6jlr8p7b8hefdxvq",
+      "bannerPhoto": "https://res.cloudinary.com/djsqcm710/image/upload/f_auto,q_auto/oiclxnjmciej7wypiiaw"
     },
     {
       "name": "Avatar Cat",
@@ -20,3 +21,4 @@
       "id": "-pLj7X6"
     }
   ]
+}
