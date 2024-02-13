@@ -16,9 +16,18 @@
       "livesIn": "Staten Island",
       "originallyFrom": "The Streets",
       "nickname": "Aang",
-      "profilePhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707773533/gggesm7ek3s5nv2jciz6.jpg",
+      "profilePhoto": "https://res.cloudinary.com/djsqcm710/image/upload/f_auto,q_auto/zldlipd89oswwx75urjn",
       "bannerPhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707773535/amhidipwymxfqpyupurm.jpg",
       "id": "-pLj7X6"
+    },
+    {
+      "name": "chomper",
+      "livesIn": "bed",
+      "originallyFrom": "gutter",
+      "nickname": "chompah",
+      "profilePhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707852879/bxuis7cxdml5mnzrojbt.png",
+      "bannerPhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707852908/wjwtgizsgs6u24ks72nu.jpg",
+      "id": "e6eZayC"
     }
   ]
 }
