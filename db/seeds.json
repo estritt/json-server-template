@@ -8,7 +8,8 @@
       "originallyFrom": "???",
       "nickname": "Pants Man",
       "profilePhoto": "https://res.cloudinary.com/djsqcm710/image/upload/f_auto,q_auto/lk5s6jlr8p7b8hefdxvq",
-      "bannerPhoto": "https://res.cloudinary.com/djsqcm710/image/upload/f_auto,q_auto/oiclxnjmciej7wypiiaw"
+      "bannerPhoto": "https://res.cloudinary.com/djsqcm710/image/upload/f_auto,q_auto/oiclxnjmciej7wypiiaw",
+      "description": "Chauncey has the refined name, appearance, and mannerisms of an experienced butler. He always greets his humans at the door and attempts to take their coats as well as he can by brushing against them. His hobbies include lockpicking and singing."
     },
     {
       "name": "Avatar Cat",
@@ -18,16 +19,28 @@
       "nickname": "Aang",
       "profilePhoto": "https://res.cloudinary.com/djsqcm710/image/upload/f_auto,q_auto/zldlipd89oswwx75urjn",
       "bannerPhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707773535/amhidipwymxfqpyupurm.jpg",
+      "description": "Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them. But when the world needed him most, he vanished. A hundred years passed and my brother and I discovered the new avatar, an airbender named Aang, and although his airbending skills are great he still has a lot to learn before he's ready to save anyone. But I believe Aang can save the world.",
       "id": "-pLj7X6"
     },
     {
-      "name": "chomper",
-      "livesIn": "bed",
-      "originallyFrom": "gutter",
-      "nickname": "chompah",
+      "name": "Chomper",
+      "livesIn": "Bed",
+      "originallyFrom": "Gutter",
+      "nickname": "Chompah",
       "profilePhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707852879/bxuis7cxdml5mnzrojbt.png",
       "bannerPhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1707852908/wjwtgizsgs6u24ks72nu.jpg",
+      "description": "Contrary to popular belief, though Chomper likes chomping best, he also likes munching and crunching.",
       "id": "e6eZayC"
+    },
+    {
+      "name": "Sleepy",
+      "livesIn": "Miami",
+      "originallyFrom": "Tampa",
+      "nickname": "Sweepy",
+      "profilePhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1708007087/r7fiqsiowcdpvzv8flaz.png",
+      "bannerPhoto": "https://res.cloudinary.com/dretra7g8/image/upload/v1708007176/fkltomb5s5i8b5skjctk.jpg",
+      "description": "Fun fact! Sleepy is sleeping right now.",
+      "id": "p4DpLz-"
     }
   ]
 }
